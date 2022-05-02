@@ -1,0 +1,13 @@
+C:\Users\Светлана\source\repos\Prackticka\Prackticka\bin\Debug\Prackticka.exe.config
+C:\Users\Светлана\source\repos\Prackticka\Prackticka\bin\Debug\Prackticka.exe
+C:\Users\Светлана\source\repos\Prackticka\Prackticka\bin\Debug\Prackticka.pdb
+C:\Users\Светлана\source\repos\Prackticka\Prackticka\obj\Debug\Prackticka.csproj.AssemblyReference.cache
+C:\Users\Светлана\source\repos\Prackticka\Prackticka\obj\Debug\Prackticka.Properties.Resources.resources
+C:\Users\Светлана\source\repos\Prackticka\Prackticka\obj\Debug\Prackticka.csproj.GenerateResource.cache
+C:\Users\Светлана\source\repos\Prackticka\Prackticka\obj\Debug\Prackticka.csproj.CoreCompileInputs.cache
+C:\Users\Светлана\source\repos\Prackticka\Prackticka\obj\Debug\Prackticka.exe
+C:\Users\Светлана\source\repos\Prackticka\Prackticka\obj\Debug\Prackticka.pdb
+C:\Users\Светлана\source\repos\Prackticka\Prackticka\bin\Debug\DB.mdf
+C:\Users\Светлана\source\repos\Prackticka\Prackticka\bin\Debug\DB_log.ldf
+C:\Users\Светлана\source\repos\Prackticka\Prackticka\obj\Debug\Prackticka.Form2.resources
+C:\Users\Светлана\source\repos\Prackticka\Prackticka\obj\Debug\Prackticka.csproj.ResolveComReference.cache
